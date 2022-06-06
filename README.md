@@ -8,7 +8,7 @@ This Project Firstly verifying the Email and Password & then Different Headers a
 
 Technologies Used
 
-Apache POI TestNG Selenium Meaven
+Apache POI TestNG Selenium Maven
 
 Team Members
 
